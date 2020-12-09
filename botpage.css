@@ -1,0 +1,10 @@
+body{
+   background-repeat: no-repeat;
+   background-image: url("greatl.jpg");
+   background-size: cover;
+   
+}
+.wrapper .form .inbox .msg-header{
+    max-width: 54%;
+    margin-left: 10px;
+}
